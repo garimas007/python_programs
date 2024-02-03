@@ -1,2 +1,4 @@
 # python_programs
-folder contains all the python program done during learning python
+Folder contains all the python program written during learning python
+<br>
+It has various smallest and easy programs to understand concept
